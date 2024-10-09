@@ -11,17 +11,17 @@ const Footer = () => {
     <footer>
       <div className="footer-content">
         <p>
-          &copy; 2024 Your E-Learning Platform. All rights reserved. <br /> Made
-          with ❤️ <a href="">Prashant Kumar</a>
+          &copy; 2024 YogaBliss E-Learning Platform. All rights reserved. <br /> Made
+          with ❤️ <a href="">Shreya Riddhi Khushi</a>
         </p>
         <div className="social-links">
-          <a href="">
+          <a href="https://www.facebook.com/IndianYogaAssociation.IYA/">
             <AiFillFacebook />
           </a>
-          <a href="">
+          <a href="https://x.com/yogaatiya?lang=en&mx=2">
             <AiFillTwitterSquare />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/indianyogaassociation.iya/?hl=en">
             <AiFillInstagram />
           </a>
         </div>

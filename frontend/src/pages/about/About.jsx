@@ -7,10 +7,7 @@ const About = () => {
       <div className="about-content">
         <h2>About Us</h2>
         <p>
-          We are dedicated to providing high quality online courses to help
-          individuals learn and grow in their desired fields. Our experienced
-          instruction ensure that each course is tailored for effective learning
-          and practical application.
+        We are dedicated to offering high-quality online yoga classes designed to help individuals enhance their well-being, flexibility, and mindfulness. Our experienced instructors ensure that each session is thoughtfully crafted for holistic learning, personal growth, and practical application in daily life.
         </p>
       </div>
     </div>
